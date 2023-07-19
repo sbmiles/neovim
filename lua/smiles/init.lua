@@ -1,2 +1,2 @@
-require("smiles.remap")
 require("smiles.set")
+require("smiles.remap")
